@@ -1,0 +1,34 @@
+header {
+    background-color: #4ce2f9;
+    height: 30px;
+}
+
+main {
+    background-color: #e1dcdd;
+    width: 55%;
+    height: 55px;
+    float: left;
+    padding: 10%;
+}
+
+aside {
+    background-color: #747474;
+    width: 5%;
+    float: right;
+    height: 55px;
+    padding: 10%;
+}
+
+section {
+    background-color: #84ff84;
+    clear: both;
+    padding: 20px;
+    height: 15px;
+}
+
+footer {
+    background-color: #f374f3;
+    clear: both;
+    padding: 5px;
+    color: white;
+}
